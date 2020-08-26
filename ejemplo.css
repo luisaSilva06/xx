@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/4d/9a/f5/4d9af52772f42696aad556554d937da4.jpg)
+}
+
+li{
+    font-size:xx-large;
+    font-family: fantasy;
+    color: #FF1493;
+}
+
+ul{
+    font-size: xx-large;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+nav{
+    border-image: none;
+}
+
+h1{
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: bold;
+    color: #FFFF00;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.anima{
+    width: 100px;
+    height: 100px;
+    border-radius: 0%;
+    background-color: #FF1493;
+
+    transition-property: width, height;
+
+}
